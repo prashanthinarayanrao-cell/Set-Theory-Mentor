@@ -148,9 +148,9 @@ If you're an educator, instructional designer, or AI researcher exploring adapti
 Together we can design the next generation of **AI-driven learning experiences**.
 
 📫 **Contact / Portfolio Links**
-- **LinkedIn:** [[Your LinkedIn Profile URL]](https://www.linkedin.com/in/prashanthi-anand-rao/)  
-- **Medium Blog:** [[Your Medium Article URL](https://nrao-prashanthi.medium.com/set-theory-mentor-aa524044eb02)]  
-- **Email:** [Your Professional Email Address](nrao.prashanthi@gmail.com)
+- **LinkedIn:** [[LinkedIn Profile URL]](https://www.linkedin.com/in/prashanthi-anand-rao/)  
+- **Medium Blog:** [Medium Article URL](https://nrao-prashanthi.medium.com/set-theory-mentor-aa524044eb02)]  
+- **Email:** [Professional Email Address](nrao.prashanthi@gmail.com)
 
 ---
 
