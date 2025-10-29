@@ -151,6 +151,8 @@ Together we can design the next generation of **AI-driven learning experiences**
 - **LinkedIn:** [[LinkedIn Profile URL]](https://www.linkedin.com/in/prashanthi-anand-rao/)  
 - **Medium Blog:** [Medium Article URL](https://nrao-prashanthi.medium.com/set-theory-mentor-aa524044eb02)]  
 - **Email:** [Professional Email Address](nrao.prashanthi@gmail.com)
+- **Portfolio:**https://chatgpt.com/g/g-68fe4728d59c81919f9e3e645cdfa045-set-theory-mentor
+- 
 
 ---
 
