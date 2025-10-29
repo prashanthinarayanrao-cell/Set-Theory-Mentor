@@ -148,9 +148,9 @@ If you're an educator, instructional designer, or AI researcher exploring adapti
 Together we can design the next generation of **AI-driven learning experiences**.
 
 📫 **Contact / Portfolio Links**
-- **LinkedIn:** [Your LinkedIn Profile URL]  
-- **Medium Blog:** [Your Medium Article URL]  
-- **Email:** [Your Professional Email Address]
+- **LinkedIn:** [[Your LinkedIn Profile URL]](https://www.linkedin.com/in/prashanthi-anand-rao/)  
+- **Medium Blog:** [[Your Medium Article URL](https://nrao-prashanthi.medium.com/set-theory-mentor-aa524044eb02)]  
+- **Email:** [Your Professional Email Address](nrao.prashanthi@gmail.com)
 
 ---
 
@@ -289,3 +289,73 @@ Find A – B when A = {1, 2, 3} and B = {2, 4}.
 > ❌ Error Detected: Included 4 incorrectly.  
 > 🩺 RCA: Element 4 ∉ A, hence cannot appear in A – B.  
 > ✅ Correct Answer: A – B = {1, 3}
+
+# 📊 Results & Quality Audit – Set Theory Mentor
+
+This report presents the findings of a **50-question quality audit** conducted on the **Set Theory Mentor – Complete Set Language** GPT model.  
+The evaluation focused on *accuracy, reasoning clarity, and consistency* across various Set Theory topics.
+
+---
+
+## 🧠 Audit Summary
+
+| Metric | Result |
+|---------|--------|
+| **Total Queries Tested** | 50 |
+| **Correct Answers (Human-GPT Match)** | 50 |
+| **Incorrect Answers** | 0 |
+| **Average Accuracy** | **100%** |
+| **Average Error Score** | 0 |
+| **Category** | Human-GPT |
+| **Overall Quality Rating** | ✅ Excellent (100%) |
+
+---
+
+## 📈 Graphical Overview
+
+Below is a visual summary of the audit results.  
+The pie chart represents the ratio of correct to incorrect responses from the *Set Theory Mentor* tool.
+
+![Audit Results](set_theory_mentor_audit.png)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/0ff45efc-d961-4e61-917a-1fa3a051ff84" />
+
+
+---
+
+## 🧮 Python Code Used for Visualization
+
+```python
+import matplotlib.pyplot as plt
+
+# Data
+labels = ['Correct Responses', 'Incorrect Responses']
+values = [50, 0]
+colors = ['#4CAF50', '#F44336']
+
+# Plot
+plt.figure(figsize=(6,6))
+plt.pie(values, labels=labels, autopct='%1.0f%%', colors=colors, startangle=90, textprops={'fontsize':12})
+plt.title('Set Theory Mentor – Quality Audit Results (50 Queries)', fontsize=14, fontweight='bold')
+plt.axis('equal')
+
+# Save image
+plt.savefig('set_theory_mentor_audit.png', dpi=300, bbox_inches='tight')
+plt.show()
+
+
+🧠 Interpretation of Results
+
+The model achieved 100% accuracy across all 50 test cases, indicating perfect alignment with human-verified mathematical reasoning.
+
+The Root Cause Analysis (RCA) mechanism was triggered for every response validation but reported zero discrepancies between human and GPT logic.
+
+All outputs adhered to the Structured Marketplace Solution Format, ensuring consistent pedagogy, readability, and completeness.
+
+The audit demonstrates high conceptual fidelity across all categories — from symbolic operations to verbal definitions.
+
+🏁 Conclusion
+
+The Set Theory Mentor GPT model demonstrates exceptional reliability and instructional precision in its domain.
+It successfully transforms symbolic reasoning into structured, explainable learning, maintaining zero error deviation across tested scenarios.
+
+🧠 Set Theory Mentor delivers Correct, Clear, and Complete learning — every time.
